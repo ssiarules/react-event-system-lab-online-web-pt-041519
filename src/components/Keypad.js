@@ -1,5 +1,5 @@
 // Code Keypad Component Here
-import React, {Component} from 'react',
+import React from 'react';
 
 class Keypad extends React.Component {
 
