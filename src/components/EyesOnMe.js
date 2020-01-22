@@ -1,5 +1,5 @@
 // Code EyesOnMe Component Here
-import React, {Component} from 'react';
+import React from 'react';
 
 class EyesOnMe extends React.Component {
 
